@@ -34,7 +34,7 @@ The architecture splits the game logic into dedicated, clean C# scripts located 
 
 ## 📸 In-Game Screenshots
 
- Gameplay Scene |
+| Editor & Environment View | Gameplay Scene |
 |---|---|
 | ![Screen 1](1.jpg) | ![Screen 2](2.jpg) |
 | ![Screen 3](3.jpg) | ![Screen 4](4.jpg) |
